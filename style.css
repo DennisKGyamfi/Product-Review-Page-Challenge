@@ -12,6 +12,7 @@
         box-sizing: border-box;
         max-width: 80%;
         overflow: auto;
+        border-radius: 5px;
     }
 
     .perfumeImg {  
